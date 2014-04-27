@@ -9,3 +9,7 @@ I liked the challenge as it had me giving greater consideration to sites I look 
 I really got into the set up of the blog templates and wanted them to align with my index and about me files. I looked for ways to build a unified and concise project. I even went as far as looking at ways to build out my index file or homepage. Once that was established, the implementation was rather struggle free. The only minor hiccup on the blog html was cured by Googling a bit about unicode and how to use apostrophes in my writing. 
 
 As for the actual writing or blogging, it was a bit more challenging. I’ve considered blogging in the past but never took it up. Only recently have I begun to use an application for journaling. I would find myself asking if what I was sharing was relevant or of some importance. I became more aware of wording and not wanting to waste the readers time or effort. 
+
+
+###Issue/comment: 
+Hey Ernie. I'm not sure if this is how I'm supposed to comment! I hope so, and excuse me if I'm editing this the wrong way. I haven't done this challenge yet, so I thought it would be a good idea to see what someone else thought of it first. Your blog looks good. I think you are on the right track! Maybe I'll check back in after I complete the exercise. 
