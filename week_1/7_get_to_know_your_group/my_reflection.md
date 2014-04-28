@@ -24,3 +24,5 @@ Link to created site:
 
 Link to wireframing page:
 http://awhit012.github.io/unit1_projects/wireframe_sites.html
+
+I haven't found where you we put our fears. So far my fears are of burning out. So far this week has made me feel mostly better. I like that we get background for all elements of what we are learning with links to many great resources. 
