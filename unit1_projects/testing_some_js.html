@@ -1,0 +1,23 @@
+function halloween() {
+    // Set the background to black, and the text to red Nosifer
+    document.body.style.background="black";
+    document.getElementById('container').style.fontFamily="nosifer";
+    document.getElementById('container').style.color="red";
+   
+    // Create a new H1 DOM object and some new text 
+    var newGreeting = document.createElement("h1");
+    var greetingText = document.createTextNode("Happy Halloween!");
+ 
+    //Stick Happy Halloween text inside of the new H1 DOM object
+    newGreeting.appendChild(greetingText);
+   
+    //Find the old headline and its parent element
+    var oldGreeting = document.getElementById('headline');
+    var parentDiv = oldGreeting.parentNode;
+   
+    //Replace the old headline child with the new headline child
+    parentDiv.replaceChild(newGreeting, oldGreeting);    
+}
+ 
+// Do all of this when the web page loads
+document.onLoad = halloween();
