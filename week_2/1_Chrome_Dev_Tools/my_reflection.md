@@ -46,4 +46,6 @@ Minifying CSS, JS and HTML saves about another 9KB
 I went to my blog brainchomp.wordpress.com. The CSS is largely similar, although there are more customizations happening. The HTML has a lot of Javascript built in, which so far my github.io site does not. It also has a lot of tags under !doctype that I am unfamiliar with, but look like they identify language. 
 
 
-!!! I didn't figure out how to change the hover to black on the Postmachina site! Not sure why, I did what seemed like should work. I'll come back and fix it and upload the screenshot. 
+http://i.imgur.com/n6PCq9N.png
+
+http://i.imgur.com/Yj28ey7.png
